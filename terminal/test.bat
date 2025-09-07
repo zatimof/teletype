@@ -1,0 +1,1 @@
+terminal.exe COM1 text.txt
